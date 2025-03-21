@@ -10,8 +10,8 @@ It involves testing the process of product search, product selection, and cart f
 
 #### Technologies Used:
 
--Python
--Selenium WebDriver
+-Python <br>
+-Selenium WebDriver <br>
 This project was created using PyCharm IDE and leverages Selenium for web automation and testing.
 
 
