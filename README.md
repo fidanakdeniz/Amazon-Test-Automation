@@ -17,7 +17,7 @@ This project was created using PyCharm IDE and leverages Selenium for web automa
 
 
 #### Steps
-1-Go to https://www.amazon.com.tr/ [Amazon.com.tr](https://www.amazon.com.tr/) <br>
+1-Go to https://www.amazon.com.tr/ [Link](https://www.amazon.com.tr/) <br>
 2-Verify that you are on the home page. <br>
 3-Type 'samsung' in the search field at the top of the screen and perform search. <br>
 4-Verify that there are results for Samsung on the page that appears. <br>
